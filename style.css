@@ -69,10 +69,10 @@ section {
   }
 }
 
-#scrollUp{
-width: 100px;
-font-size: 3em;
-color: #fff;
+#scrollUp {
+  width: 100px;
+  font-size: 3em;
+  color: #fff;
 }
 .btn {
   color: #ffff;
@@ -107,12 +107,12 @@ color: #fff;
   border: 2px solid rgb(31, 53, 255);
   text-transform: uppercase;
   transition: 0.5s ease;
- margin-left: 82px;
+  margin-left: 82px;
 }
 .btn1:hover {
   background: rgb(83, 163, 255);
   color: #fff;
-border: none;
+  border: none;
   transition: 0.6s ease-in-out;
 }
 .media-icons {
@@ -318,8 +318,8 @@ body {
   background: rgb(250, 4, 209);
 }
 .skills .content .col-right .bar .react:before {
-    width: 45%;
-    background: rgb(177, 117, 255);
+  width: 45%;
+  background: rgb(177, 117, 255);
 }
 .work {
   display: flex;
@@ -641,7 +641,7 @@ body {
   }
   .menu-btn {
     position: absolute;
-    background: url(menu.png) no-repeat;
+    background: url(Images/menu.png) no-repeat;
     background-position: center;
     background-size: 30px;
     width: 40px;
@@ -654,11 +654,10 @@ body {
 
   .menu-btn.active {
     z-index: 999;
-    background: url(close.png) no-repeat;
+    background: url(Images/close.png) no-repeat;
     background-size: 25px;
     background-position: center;
     transition: 0.3s ease;
-   
   }
   .btn {
     color: #ffff;
@@ -698,8 +697,8 @@ body {
     margin-left: 48px;
     padding: 5px;
     text-align: center;
-}
-  
+  }
+
   section {
     padding: 80px 20px;
   }
@@ -752,7 +751,7 @@ body {
   .work .card-container {
   }
   .work h1 {
-    font-size: 2.0em;
+    font-size: 2em;
     text-align: center;
     margin: -40px 92px;
     position: absolute;
