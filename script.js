@@ -1,6 +1,5 @@
 
 
-//for responsive nav bar menu
 const menuBtn = document.querySelector(".menu-btn");
 const navigation = document.querySelector(".nav-bar");
 const navigationItems = document.querySelectorAll(".nav-bar a")
